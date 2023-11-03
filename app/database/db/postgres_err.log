@@ -4,3 +4,5 @@
 2023-11-04 02:10:57.959 +04 [56333] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
 2023-11-04 02:10:57.964 +04 [56340] LOG:  database system was shut down at 2023-11-04 02:10:57 +04
 2023-11-04 02:10:57.970 +04 [56333] LOG:  database system is ready to accept connections
+2023-11-04 02:15:58.041 +04 [56338] LOG:  checkpoint starting: time
+2023-11-04 02:16:04.897 +04 [56338] LOG:  checkpoint complete: wrote 47 buffers (0.3%); 0 WAL file(s) added, 0 removed, 0 recycled; write=6.846 s, sync=0.002 s, total=6.857 s; sync files=11, longest=0.001 s, average=0.001 s; distance=272 kB, estimate=272 kB
